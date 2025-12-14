@@ -1,0 +1,2 @@
+from .alg import FeatureAlignmentWithMultipleRunningScalingAlg
+from ..feature_alignment.model import FeatureAlignmentModel
