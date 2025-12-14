@@ -4,7 +4,15 @@
 
 - [1 Introduction](#1-introduction)
 - [2 Installation](#2-installation)
-  * [2.1 Requirements](#21-requirements)
+  - [2.1 Requirements](#21-requirements)
+  - [2.2 Preparing Environment](#22-preparing-environment)
+- [3 Running Example](#3-running-example)
+  - [3.1 Settings](#31-settings)
+  - [3.2 Pre-training](#32-pre-training)
+  - [3.3 Retraining](#33-retraining)
+- [4 Full Evaluation Results](#4-full-evaluation-results)
+  - [4.1 Settings](#41-settings)
+  - [4.2 Results](#42-results)
 
 ## 1 Introduction
 
